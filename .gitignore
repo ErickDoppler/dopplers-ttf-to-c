@@ -1,0 +1,5 @@
+/build/
+/bin/
+*-Code-*.txt
+*.o
+*.exe
